@@ -1,0 +1,1301 @@
+Début du teste: le 1/16/2018 12:41:44 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 11.57647 °
+			 Longitude: -1.159736 °
+		Angle du tir: 
+
+			 Latitude: 14.71656 °
+			 Longitude: -0.3416305 °
+		Différence: 
+
+			 Latitude: 3.140087 °
+			 Longitude: 0.8181052 °
+
+ Cible n° : 2
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -34.81396 °
+			 Longitude: -58.41217 °
+		Angle du tir: 
+
+			 Latitude: 12.1631 °
+			 Longitude: 48.16483 °
+		Différence: 
+
+			 Latitude: 46.97706 °
+			 Longitude: 106.577 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -11.64998 °
+			 Longitude: 7.675125 °
+		Angle du tir: 
+
+			 Latitude: 38.86221 °
+			 Longitude: 39.47511 °
+		Différence: 
+
+			 Latitude: 50.51219 °
+			 Longitude: 31.79999 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: -14.73299 °
+			 Longitude: 7.712306 °
+		Angle du tir: 
+
+			 Latitude: 31.94403 °
+			 Longitude: 9.280666 °
+		Différence: 
+
+			 Latitude: 46.67702 °
+			 Longitude: 1.568361 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: -11.81323 °
+			 Longitude: 6.631326 °
+		Angle du tir: 
+
+			 Latitude: 16.04868 °
+			 Longitude: -36.91405 °
+		Différence: 
+
+			 Latitude: 27.86191 °
+			 Longitude: -43.54537 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -10.24025 °
+			 Longitude: 3.027147 °
+		Angle du tir: 
+
+			 Latitude: 73.44302 °
+			 Longitude: -26.22563 °
+		Différence: 
+
+			 Latitude: 83.68327 °
+			 Longitude: -29.25278 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -10.47836 °
+			 Longitude: 0.2878044 °
+		Angle du tir: 
+
+			 Latitude: -11.97815 °
+			 Longitude: 1.161137 °
+		Différence: 
+
+			 Latitude: -1.499796 °
+			 Longitude: 0.8733329 °
+
+ Cible n° : 4
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -10.99852 °
+			 Longitude: -79.52163 °
+		Angle du tir: 
+
+			 Latitude: 4.752961 °
+			 Longitude: -125.2685 °
+		Différence: 
+
+			 Latitude: 15.75148 °
+			 Longitude: -45.74688 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 4.786948 °
+			 Longitude: -162.1893 °
+		Angle du tir: 
+
+			 Latitude: -6.988275 °
+			 Longitude: 1.366347 °
+		Différence: 
+
+			 Latitude: -11.77522 °
+			 Longitude: 163.5557 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: 5.96072 °
+			 Longitude: -134.8947 °
+		Angle du tir: 
+
+			 Latitude: -3.859852 °
+			 Longitude: -13.54616 °
+		Différence: 
+
+			 Latitude: -9.820572 °
+			 Longitude: 121.3485 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: 0.3028814 °
+			 Longitude: -29.96291 °
+		Angle du tir: 
+
+			 Latitude: -5.367631 °
+			 Longitude: 1.510554 °
+		Différence: 
+
+			 Latitude: -5.670512 °
+			 Longitude: 31.47346 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: 7.510778 °
+			 Longitude: -174.2521 °
+		Angle du tir: 
+
+			 Latitude: 3.774923 °
+			 Longitude: 174.7951 °
+		Différence: 
+
+			 Latitude: -3.735855 °
+			 Longitude: 349.0472 °
+
+ Cible n° : 4
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -2.27794 °
+			 Longitude: -32.39698 °
+		Angle du tir: 
+
+			 Latitude: -12.57219 °
+			 Longitude: -12.20687 °
+		Différence: 
+
+			 Latitude: -10.29424 °
+			 Longitude: 20.1901 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -2.333887 °
+			 Longitude: -26.74617 °
+		Angle du tir: 
+
+			 Latitude: -11.79315 °
+			 Longitude: 8.023662 °
+		Différence: 
+
+			 Latitude: -9.459269 °
+			 Longitude: 34.76984 °
+
+ Cible n° : 10
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -4.839499 °
+			 Longitude: 25.57191 °
+		Angle du tir: 
+
+			 Latitude: -11.97285 °
+			 Longitude: 4.093379 °
+		Différence: 
+
+			 Latitude: -7.133349 °
+			 Longitude: -21.47854 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -5.159025 °
+			 Longitude: 25.03801 °
+		Angle du tir: 
+
+			 Latitude: -5.520235 °
+			 Longitude: 10.94933 °
+		Différence: 
+
+			 Latitude: -0.3612094 °
+			 Longitude: -14.08868 °
+Début du teste: le 1/16/2018 2:43:13 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -5.661663 °
+			 Longitude: 30.7825 °
+		Angle du tir: 
+
+			 Latitude: -7.281036 °
+			 Longitude: 12.51823 °
+		Différence: 
+
+			 Latitude: -1.619374 °
+			 Longitude: -18.26427 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -5.969474 °
+			 Longitude: -10.89321 °
+		Angle du tir: 
+
+			 Latitude: 1.530967 °
+			 Longitude: 3.835384 °
+		Différence: 
+
+			 Latitude: 7.500441 °
+			 Longitude: 14.7286 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: -5.598218 °
+			 Longitude: -7.919869 °
+		Angle du tir: 
+
+			 Latitude: -10.2024 °
+			 Longitude: 3.199334 °
+		Différence: 
+
+			 Latitude: -4.604183 °
+			 Longitude: 11.1192 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: -8.408416 °
+			 Longitude: 11.78227 °
+		Angle du tir: 
+
+			 Latitude: -7.984068 °
+			 Longitude: 3.848265 °
+		Différence: 
+
+			 Latitude: 0.4243479 °
+			 Longitude: -7.934008 °
+
+ Cible n° : 2
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -4.952302 °
+			 Longitude: -10.31435 °
+		Angle du tir: 
+
+			 Latitude: 19.15492 °
+			 Longitude: 1.168634 °
+		Différence: 
+
+			 Latitude: 24.10722 °
+			 Longitude: 11.48299 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 7.257261 °
+			 Longitude: -165.4747 °
+		Angle du tir: 
+
+			 Latitude: -4.145987 °
+			 Longitude: -2.70404 °
+		Différence: 
+
+			 Latitude: -11.40325 °
+			 Longitude: 162.7706 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -7.598526 °
+			 Longitude: 7.177466 °
+		Angle du tir: 
+
+			 Latitude: -10.31432 °
+			 Longitude: 10.21257 °
+		Différence: 
+
+			 Latitude: -2.715795 °
+			 Longitude: 3.035102 °
+
+ Cible n° : 4
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 1.052762 °
+			 Longitude: -69.87443 °
+		Angle du tir: 
+
+			 Latitude: 3.357716 °
+			 Longitude: -13.73131 °
+		Différence: 
+
+			 Latitude: 2.304954 °
+			 Longitude: 56.14312 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -3.022426 °
+			 Longitude: -35.28346 °
+		Angle du tir: 
+
+			 Latitude: -12.06056 °
+			 Longitude: -15.65922 °
+		Différence: 
+
+			 Latitude: -9.038136 °
+			 Longitude: 19.62424 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: -1.484607 °
+			 Longitude: -41.07248 °
+		Angle du tir: 
+
+			 Latitude: 0.7739289 °
+			 Longitude: -31.70636 °
+		Différence: 
+
+			 Latitude: 2.258536 °
+			 Longitude: 9.366123 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: 4.298361 °
+			 Longitude: -113.5684 °
+		Angle du tir: 
+
+			 Latitude: -9.577637 °
+			 Longitude: -25.12367 °
+		Différence: 
+
+			 Latitude: -13.876 °
+			 Longitude: 88.44476 °
+
+ Cible n° : 5
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -8.660712 °
+			 Longitude: 24.13304 °
+		Angle du tir: 
+
+			 Latitude: -10.62866 °
+			 Longitude: 7.157295 °
+		Différence: 
+
+			 Latitude: -1.967945 °
+			 Longitude: -16.97574 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -7.854122 °
+			 Longitude: -13.9254 °
+		Angle du tir: 
+
+			 Latitude: -5.722702 °
+			 Longitude: -44.86047 °
+		Différence: 
+
+			 Latitude: 2.13142 °
+			 Longitude: -30.93507 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: -7.982968 °
+			 Longitude: -18.08331 °
+		Angle du tir: 
+
+			 Latitude: -8.356356 °
+			 Longitude: -14.6064 °
+		Différence: 
+
+			 Latitude: -0.3733873 °
+			 Longitude: 3.476907 °
+Début du teste: le 1/16/2018 2:45:55 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -7.064636 °
+			 Longitude: 0.01456 °
+		Angle du tir: 
+
+			 Latitude: 10.42661 °
+			 Longitude: -0.6016061 °
+		Différence: 
+
+			 Latitude: 17.49124 °
+			 Longitude: -0.6161661 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: 25.40787 °
+			 Longitude: 1.594097 °
+		Angle du tir: 
+
+			 Latitude: 42.69773 °
+			 Longitude: -1.290522 °
+		Différence: 
+
+			 Latitude: 17.28986 °
+			 Longitude: -2.884619 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: 23.78478 °
+			 Longitude: 48.95874 °
+		Angle du tir: 
+
+			 Latitude: 40.2777 °
+			 Longitude: 55.25817 °
+		Différence: 
+
+			 Latitude: 16.49292 °
+			 Longitude: 6.299427 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: -17.32566 °
+			 Longitude: -3.196446 °
+		Angle du tir: 
+
+			 Latitude: -10.77504 °
+			 Longitude: 0.01802263 °
+		Différence: 
+
+			 Latitude: 6.550625 °
+			 Longitude: 3.214469 °
+
+ Cible n° : 2
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -13.69065 °
+			 Longitude: 3.968563 °
+		Angle du tir: 
+
+			 Latitude: -10.5298 °
+			 Longitude: 5.832445 °
+		Différence: 
+
+			 Latitude: 3.160853 °
+			 Longitude: 1.863881 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -13.82096 °
+			 Longitude: 10.2874 °
+		Angle du tir: 
+
+			 Latitude: -8.457995 °
+			 Longitude: 2.460448 °
+		Différence: 
+
+			 Latitude: 5.36296 °
+			 Longitude: -7.82695 °
+
+ Cible n° : 4
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -13.41133 °
+			 Longitude: 4.928298 °
+		Angle du tir: 
+
+			 Latitude: -6.950573 °
+			 Longitude: 8.161632 °
+		Différence: 
+
+			 Latitude: 6.460762 °
+			 Longitude: 3.233333 °
+
+ Cible n° : 5
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -15.71873 °
+			 Longitude: -9.826589 °
+		Angle du tir: 
+
+			 Latitude: -10.27378 °
+			 Longitude: -4.487033 °
+		Différence: 
+
+			 Latitude: 5.444951 °
+			 Longitude: 5.339556 °
+
+ Cible n° : 6
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -13.62428 °
+			 Longitude: 20.80074 °
+		Angle du tir: 
+
+			 Latitude: -4.759375 °
+			 Longitude: -30.73405 °
+		Différence: 
+
+			 Latitude: 8.864909 °
+			 Longitude: -51.53479 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -20.12519 °
+			 Longitude: 1.584156 °
+		Angle du tir: 
+
+			 Latitude: -14.04486 °
+			 Longitude: 3.308481 °
+		Différence: 
+
+			 Latitude: 6.080332 °
+			 Longitude: 1.724326 °
+
+ Cible n° : 7
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -20.53631 °
+			 Longitude: -9.209502 °
+		Angle du tir: 
+
+			 Latitude: -16.05461 °
+			 Longitude: 14.24817 °
+		Différence: 
+
+			 Latitude: 4.481701 °
+			 Longitude: 23.45767 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -20.93259 °
+			 Longitude: -8.653211 °
+		Angle du tir: 
+
+			 Latitude: -15.63709 °
+			 Longitude: -5.121294 °
+		Différence: 
+
+			 Latitude: 5.295501 °
+			 Longitude: 3.531917 °
+
+ Cible n° : 8
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -18.63775 °
+			 Longitude: -10.97992 °
+		Angle du tir: 
+
+			 Latitude: -14.68483 °
+			 Longitude: -11.66206 °
+		Différence: 
+
+			 Latitude: 3.952917 °
+			 Longitude: -0.6821413 °
+
+ Cible n° : 9
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -14.65089 °
+			 Longitude: 8.900554 °
+		Angle du tir: 
+
+			 Latitude: -12.56049 °
+			 Longitude: 9.919653 °
+		Différence: 
+
+			 Latitude: 2.090395 °
+			 Longitude: 1.019099 °
+
+ Cible n° : 10
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -15.39238 °
+			 Longitude: -0.6482604 °
+		Angle du tir: 
+
+			 Latitude: -10.31997 °
+			 Longitude: 1.165726 °
+		Différence: 
+
+			 Latitude: 5.072408 °
+			 Longitude: 1.813986 °
+Début du teste: le 1/16/2018 4:31:39 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 20.85994 °
+			 Longitude: -140.6516 °
+		Angle du tir: 
+
+			 Latitude: -10.2333 °
+			 Longitude: 14.92041 °
+		Différence: 
+
+			 Latitude: -31.09324 °
+			 Longitude: 155.572 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: 19.41182 °
+			 Longitude: -142.9744 °
+		Angle du tir: 
+
+			 Latitude: -7.314937 °
+			 Longitude: 11.7475 °
+		Différence: 
+
+			 Latitude: -26.72676 °
+			 Longitude: 154.7219 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: 20.45871 °
+			 Longitude: -139.543 °
+		Angle du tir: 
+
+			 Latitude: -5.646639 °
+			 Longitude: 16.48809 °
+		Différence: 
+
+			 Latitude: -26.10535 °
+			 Longitude: 156.0311 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: 17.41375 °
+			 Longitude: -139.0705 °
+		Angle du tir: 
+
+			 Latitude: -2.915315 °
+			 Longitude: 14.85834 °
+		Différence: 
+
+			 Latitude: -20.32906 °
+			 Longitude: 153.9288 °
+
+ Cible n° : 2
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -8.360837 °
+			 Longitude: 3.962078 °
+		Angle du tir: 
+
+			 Latitude: 9.680467 °
+			 Longitude: -26.74612 °
+		Différence: 
+
+			 Latitude: 18.0413 °
+			 Longitude: -30.7082 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -1.17803 °
+			 Longitude: -72.71959 °
+		Angle du tir: 
+
+			 Latitude: 17.08865 °
+			 Longitude: 161.5295 °
+		Différence: 
+
+			 Latitude: 18.26668 °
+			 Longitude: 234.2491 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -7.707541 °
+			 Longitude: -76.15063 °
+		Angle du tir: 
+
+			 Latitude: 1.70949 °
+			 Longitude: 60.28 °
+		Différence: 
+
+			 Latitude: 9.41703 °
+			 Longitude: 136.4306 °
+	 Tire n° : 3
+
+		 Angle de la cible: 
+
+			 Latitude: -13.09653 °
+			 Longitude: -51.43823 °
+		Angle du tir: 
+
+			 Latitude: 3.7365 °
+			 Longitude: 24.32521 °
+		Différence: 
+
+			 Latitude: 16.83302 °
+			 Longitude: 75.76344 °
+	 Tire n° : 4
+
+		 Angle de la cible: 
+
+			 Latitude: -14.44519 °
+			 Longitude: -53.75562 °
+		Angle du tir: 
+
+			 Latitude: -8.016803 °
+			 Longitude: 14.96802 °
+		Différence: 
+
+			 Latitude: 6.428389 °
+			 Longitude: 68.72364 °
+Début du teste: le 1/16/2018 4:32:25 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -3.270202 °
+			 Longitude: -97.32066 °
+		Angle du tir: 
+
+			 Latitude: 13.31198 °
+			 Longitude: 20.53185 °
+		Différence: 
+
+			 Latitude: 16.58218 °
+			 Longitude: 117.8525 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -21.10518 °
+			 Longitude: -68.89635 °
+		Angle du tir: 
+
+			 Latitude: -1.881333 °
+			 Longitude: 18.01283 °
+		Différence: 
+
+			 Latitude: 19.22385 °
+			 Longitude: 86.90919 °
+Début du teste: le 1/16/2018 4:36:45 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -2.491315 °
+			 Longitude: 45.92051 °
+		Angle du tir: 
+
+			 Latitude: 4.572428 °
+			 Longitude: -33.73703 °
+		Différence: 
+
+			 Latitude: 7.063743 °
+			 Longitude: -79.65755 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: 1.65822 °
+			 Longitude: 56.50161 °
+		Angle du tir: 
+
+			 Latitude: -0.2311373 °
+			 Longitude: 17.8857 °
+		Différence: 
+
+			 Latitude: -1.889358 °
+			 Longitude: -38.61591 °
+Début du teste: le 1/16/2018 4:45:04 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 3.258734 °
+			 Longitude: -139.5286 °
+		Angle du tir: 
+
+			 Latitude: -3.776793 °
+			 Longitude: -21.47852 °
+		Différence: 
+
+			 Latitude: -7.035527 °
+			 Longitude: 118.0501 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -9.123094 °
+			 Longitude: 5.444708 °
+		Angle du tir: 
+
+			 Latitude: -9.359988 °
+			 Longitude: 4.8064 °
+		Différence: 
+
+			 Latitude: -0.2368946 °
+			 Longitude: -0.6383076 °
+
+ Cible n° : 2
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -6.525564 °
+			 Longitude: -6.076927 °
+		Angle du tir: 
+
+			 Latitude: -7.617166 °
+			 Longitude: 9.510037 °
+		Différence: 
+
+			 Latitude: -1.091602 °
+			 Longitude: 15.58696 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -5.758088 °
+			 Longitude: -1.355509 °
+		Angle du tir: 
+
+			 Latitude: -6.553354 °
+			 Longitude: 5.841902 °
+		Différence: 
+
+			 Latitude: -0.7952666 °
+			 Longitude: 7.197412 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -2.706042 °
+			 Longitude: -13.05338 °
+		Angle du tir: 
+
+			 Latitude: -4.601969 °
+			 Longitude: -12.91292 °
+		Différence: 
+
+			 Latitude: -1.895928 °
+			 Longitude: 0.1404676 °
+
+ Cible n° : 4
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -7.121727 °
+			 Longitude: -7.108349 °
+		Angle du tir: 
+
+			 Latitude: -7.909271 °
+			 Longitude: -6.093697 °
+		Différence: 
+
+			 Latitude: -0.7875443 °
+			 Longitude: 1.014653 °
+
+ Cible n° : 5
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -6.01454 °
+			 Longitude: -8.593321 °
+		Angle du tir: 
+
+			 Latitude: -6.487726 °
+			 Longitude: -7.881404 °
+		Différence: 
+
+			 Latitude: -0.473186 °
+			 Longitude: 0.7119169 °
+
+ Cible n° : 6
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -3.928183 °
+			 Longitude: -0.7231199 °
+		Angle du tir: 
+
+			 Latitude: -2.144017 °
+			 Longitude: 1.51959 °
+		Différence: 
+
+			 Latitude: 1.784166 °
+			 Longitude: 2.24271 °
+
+ Cible n° : 7
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -3.612345 °
+			 Longitude: -3.223738 °
+		Angle du tir: 
+
+			 Latitude: -3.631438 °
+			 Longitude: -0.5464925 °
+		Différence: 
+
+			 Latitude: -0.01909304 °
+			 Longitude: 2.677245 °
+
+ Cible n° : 8
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -5.678119 °
+			 Longitude: -2.464127 °
+		Angle du tir: 
+
+			 Latitude: -7.579637 °
+			 Longitude: -2.010374 °
+		Différence: 
+
+			 Latitude: -1.901518 °
+			 Longitude: 0.453753 °
+
+ Cible n° : 9
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -4.709068 °
+			 Longitude: 6.096773 °
+		Angle du tir: 
+
+			 Latitude: -5.068502 °
+			 Longitude: 5.797515 °
+		Différence: 
+
+			 Latitude: -0.3594346 °
+			 Longitude: -0.2992582 °
+
+ Cible n° : 10
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -5.571755 °
+			 Longitude: -6.18763 °
+		Angle du tir: 
+
+			 Latitude: -8.76742 °
+			 Longitude: -1.660212 °
+		Différence: 
+
+			 Latitude: -3.195665 °
+			 Longitude: 4.527418 °
+Début du teste: le 1/16/2018 4:46:41 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -2.860475 °
+			 Longitude: 97.01284 °
+		Angle du tir: 
+
+			 Latitude: -1.682917 °
+			 Longitude: -10.536 °
+		Différence: 
+
+			 Latitude: 1.177558 °
+			 Longitude: -107.5488 °
+Début du teste: le 1/16/2018 4:48:40 PM
+
+ Cible n° : 1
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -1.457804 °
+			 Longitude: 84.54359 °
+		Angle du tir: 
+
+			 Latitude: -4.767396 °
+			 Longitude: -3.236526 °
+		Différence: 
+
+			 Latitude: -3.309592 °
+			 Longitude: -87.78012 °
+	 Tire n° : 2
+
+		 Angle de la cible: 
+
+			 Latitude: -0.3070564 °
+			 Longitude: -7.42534 °
+		Angle du tir: 
+
+			 Latitude: -0.7235482 °
+			 Longitude: -6.21159 °
+		Différence: 
+
+			 Latitude: -0.4164918 °
+			 Longitude: 1.21375 °
+
+ Cible n° : 2
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -6.081503 °
+			 Longitude: 9.053337 °
+		Angle du tir: 
+
+			 Latitude: -5.887391 °
+			 Longitude: 7.917628 °
+		Différence: 
+
+			 Latitude: 0.1941123 °
+			 Longitude: -1.135709 °
+
+ Cible n° : 3
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -11.80563 °
+			 Longitude: -9.969341 °
+		Angle du tir: 
+
+			 Latitude: 14.30722 °
+			 Longitude: 6.549217 °
+		Différence: 
+
+			 Latitude: 26.11285 °
+			 Longitude: 16.51856 °
+
+ Cible n° : 4
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -3.039268 °
+			 Longitude: -8.532155 °
+		Angle du tir: 
+
+			 Latitude: -4.100777 °
+			 Longitude: -10.23785 °
+		Différence: 
+
+			 Latitude: -1.061508 °
+			 Longitude: -1.705698 °
+
+ Cible n° : 5
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -5.1953 °
+			 Longitude: 16.18929 °
+		Angle du tir: 
+
+			 Latitude: -5.375276 °
+			 Longitude: 16.69551 °
+		Différence: 
+
+			 Latitude: -0.179976 °
+			 Longitude: 0.506216 °
+
+ Cible n° : 6
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 0.7826636 °
+			 Longitude: 14.73423 °
+		Angle du tir: 
+
+			 Latitude: -1.223261 °
+			 Longitude: 14.71349 °
+		Différence: 
+
+			 Latitude: -2.005924 °
+			 Longitude: -0.02074337 °
+
+ Cible n° : 7
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: 0.08240462 °
+			 Longitude: -7.465754 °
+		Angle du tir: 
+
+			 Latitude: -0.7737302 °
+			 Longitude: -7.512671 °
+		Différence: 
+
+			 Latitude: -0.8561348 °
+			 Longitude: -0.04691744 °
+
+ Cible n° : 8
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -4.590333 °
+			 Longitude: -17.3216 °
+		Angle du tir: 
+
+			 Latitude: -4.946982 °
+			 Longitude: -15.5177 °
+		Différence: 
+
+			 Latitude: -0.3566489 °
+			 Longitude: 1.803893 °
+
+ Cible n° : 9
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -0.3797977 °
+			 Longitude: -6.984591 °
+		Angle du tir: 
+
+			 Latitude: -0.5444288 °
+			 Longitude: -4.606699 °
+		Différence: 
+
+			 Latitude: -0.1646311 °
+			 Longitude: 2.377892 °
+
+ Cible n° : 10
+
+	 Tire n° : 1
+
+		 Angle de la cible: 
+
+			 Latitude: -5.144726 °
+			 Longitude: 21.79951 °
+		Angle du tir: 
+
+			 Latitude: -1.875112 °
+			 Longitude: 17.04356 °
+		Différence: 
+
+			 Latitude: 3.269614 °
+			 Longitude: -4.755951 °
